@@ -1,0 +1,153 @@
+
+
+*{
+    box-sizing: border-box;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    
+}
+.clear-fix{
+    clear: both;
+
+}
+.text-center{
+text-align: center;  
+}
+
+
+.floatleft{
+    float: left;
+}
+
+.header {
+    background-color:blue;
+    border-radius: 12px;
+    text-align: center;
+    padding: 10px;
+
+}
+.contianer h2{
+    padding: 10px;
+}
+
+.contianer p {
+    padding: 5px;
+}
+.contianer span button{
+    border-radius: 10px;
+    margin: 12px 5px;
+}
+
+
+.about-me{
+
+    background-color: white;
+    
+    border:solid rgb(174, 237, 239);
+    border-radius: 10px;
+    margin: 20px auto;
+    
+    width: 80%;
+}
+
+.about-me img{
+    padding: 20px;
+    width: 25px;
+    border-radius: 300px;
+    margin: 25% auto;
+}
+.about-me p{
+    width: 25%;
+    margin: 15% auto;
+}
+.float-clear {
+    clear: both;
+}
+.about-me p span {
+    color: blue;
+}
+.about-me pb{
+    width: 80%;
+
+}
+
+
+.experience-me{
+    width: 80%;
+    height: 600px;
+    border: solid rgb(175, 191, 222);
+    border-radius: 5px;
+    margin: 20px auto;
+}
+
+
+
+.container img{
+    width: 25%;
+    border-radius: 100px;
+    margin: 0 auto;
+
+}
+.container p
+{
+    width: 75%;
+    
+}
+button{
+    background-color: blue;
+    padding: 10px;
+    border-radius: 50px;
+    
+
+
+    }
+
+.myskills{
+ border:solid rgb(174, 237, 239);
+    border-radius: 10px;
+    margin: 20px auto;   
+
+    
+}      
+
+.skills{
+    width: 100%;
+    padding: 50px;
+    text-align: left;
+}        
+
+.m{
+    background-color: rgb(239, 245, 245);
+    width: 24%;
+    border: 2px solid cornflowerblue;
+    border-radius: 30px;
+    margin: 2px;;
+}
+
+
+.contact{
+    background-color: blue;
+    border-radius: 20px;
+    margin: 50px auto;
+    padding: 5px;
+
+}
+.fooder{
+    width: 80%;
+    height: 50px;
+    border-radius: 15px;
+
+    background-color: blue;
+    text-align: center;
+    margin: 0 auto;
+    padding: auto;
+}
+
+
+
+
+
+
+
